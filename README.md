@@ -92,6 +92,5 @@ Here are some examples of data captured by the system:
 ### **Acknowledgments**
 - **Organization**: El Centro Cultural, Cameron Park, Brownsville, Texas
 - **Contributor**: Valeria Garza
-- **Date**: December 10, 2024
 
 ---
